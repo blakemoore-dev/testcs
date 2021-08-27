@@ -2,7 +2,7 @@
 
 ## All of my solutions to the following exercises are in the individual folders above.
 
-#### Exercises
+#### _Exercises_
 
 Note: For any of these exercises, ignore input validation unless otherwise directed. Assume the user enters values in the format that the program expects.
 
