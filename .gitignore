@@ -1,3 +1,5 @@
+.gitignore
+Program.cs
 .vscode
 bin/Debug/net5.0/testcs
 bin/Debug/net5.0/testcs.deps.json
