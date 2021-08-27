@@ -11,7 +11,7 @@ Note: For any of these exercises, ignore input validation unless otherwise direc
     If only one person likes your post, it displays: [Friend's Name] likes your post.
     If two people like your post, it displays: [Friend 1] and [Friend 2] like your post.
     If more than two people like your post, it displays: [Friend 1], [Friend 2] 
-    and [Number of Other People] others like your post.
+        and [Number of Other People] others like your post.
 
 Write a program and continuously ask the user to enter different names, until the user presses Enter (without supplying a name). Depending on the number of names provided, display a message based on the above pattern.
 
