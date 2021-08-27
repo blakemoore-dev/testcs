@@ -1,0 +1,16 @@
+/home/lost/testcs/bin/Debug/net5.0/testcs
+/home/lost/testcs/bin/Debug/net5.0/testcs.deps.json
+/home/lost/testcs/bin/Debug/net5.0/testcs.runtimeconfig.json
+/home/lost/testcs/bin/Debug/net5.0/testcs.runtimeconfig.dev.json
+/home/lost/testcs/bin/Debug/net5.0/testcs.dll
+/home/lost/testcs/bin/Debug/net5.0/ref/testcs.dll
+/home/lost/testcs/bin/Debug/net5.0/testcs.pdb
+/home/lost/testcs/obj/Debug/net5.0/testcs.csprojAssemblyReference.cache
+/home/lost/testcs/obj/Debug/net5.0/testcs.GeneratedMSBuildEditorConfig.editorconfig
+/home/lost/testcs/obj/Debug/net5.0/testcs.AssemblyInfoInputs.cache
+/home/lost/testcs/obj/Debug/net5.0/testcs.AssemblyInfo.cs
+/home/lost/testcs/obj/Debug/net5.0/testcs.csproj.CoreCompileInputs.cache
+/home/lost/testcs/obj/Debug/net5.0/testcs.dll
+/home/lost/testcs/obj/Debug/net5.0/ref/testcs.dll
+/home/lost/testcs/obj/Debug/net5.0/testcs.pdb
+/home/lost/testcs/obj/Debug/net5.0/testcs.genruntimeconfig.cache
