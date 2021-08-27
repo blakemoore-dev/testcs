@@ -6,7 +6,13 @@ namespace Exercise2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello!");
+            System.Console.WriteLine("Please enter your name: ");
+            var name = Console.ReadLine();
+            var array = new char[name.Length];
+            for (int i = name.Length; i > 0; i--)
+                array[name.Length - i] = name[i - 1];
+            var reversed = new string(array);
+            System.Console.WriteLine("Reversed name is: " + reversed);
         }
     }
 }
