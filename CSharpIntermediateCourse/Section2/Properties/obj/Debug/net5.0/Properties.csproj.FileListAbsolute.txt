@@ -1,0 +1,16 @@
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/bin/Debug/net5.0/Properties
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/bin/Debug/net5.0/Properties.deps.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/bin/Debug/net5.0/Properties.runtimeconfig.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/bin/Debug/net5.0/Properties.runtimeconfig.dev.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/bin/Debug/net5.0/Properties.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/bin/Debug/net5.0/ref/Properties.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/bin/Debug/net5.0/Properties.pdb
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/obj/Debug/net5.0/Properties.csprojAssemblyReference.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/obj/Debug/net5.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/obj/Debug/net5.0/Properties.AssemblyInfoInputs.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/obj/Debug/net5.0/Properties.AssemblyInfo.cs
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/obj/Debug/net5.0/Properties.csproj.CoreCompileInputs.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/obj/Debug/net5.0/Properties.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/obj/Debug/net5.0/ref/Properties.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/obj/Debug/net5.0/Properties.pdb
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Properties/obj/Debug/net5.0/Properties.genruntimeconfig.cache
