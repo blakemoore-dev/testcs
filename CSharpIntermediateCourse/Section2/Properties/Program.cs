@@ -2,11 +2,13 @@
 
 namespace Properties
 {
+
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var person = new Person(new DateTime(1982, 1, 1));
+            System.Console.WriteLine(person.Age);
         }
     }
 }
