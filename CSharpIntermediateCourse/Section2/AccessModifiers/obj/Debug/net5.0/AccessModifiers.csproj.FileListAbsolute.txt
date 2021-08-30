@@ -1,0 +1,16 @@
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/bin/Debug/net5.0/AccessModifiers
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/bin/Debug/net5.0/AccessModifiers.deps.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/bin/Debug/net5.0/AccessModifiers.runtimeconfig.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/bin/Debug/net5.0/AccessModifiers.runtimeconfig.dev.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/bin/Debug/net5.0/AccessModifiers.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/bin/Debug/net5.0/ref/AccessModifiers.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/bin/Debug/net5.0/AccessModifiers.pdb
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/obj/Debug/net5.0/AccessModifiers.csprojAssemblyReference.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/obj/Debug/net5.0/AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/obj/Debug/net5.0/AccessModifiers.AssemblyInfoInputs.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/obj/Debug/net5.0/AccessModifiers.AssemblyInfo.cs
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/obj/Debug/net5.0/AccessModifiers.csproj.CoreCompileInputs.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/obj/Debug/net5.0/AccessModifiers.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/obj/Debug/net5.0/ref/AccessModifiers.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/obj/Debug/net5.0/AccessModifiers.pdb
+/home/lost/testcs/CSharpIntermediateCourse/Section2/AccessModifiers/obj/Debug/net5.0/AccessModifiers.genruntimeconfig.cache
