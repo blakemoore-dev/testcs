@@ -1,0 +1,16 @@
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/bin/Debug/net5.0/Indexers
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/bin/Debug/net5.0/Indexers.deps.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/bin/Debug/net5.0/Indexers.runtimeconfig.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/bin/Debug/net5.0/Indexers.runtimeconfig.dev.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/bin/Debug/net5.0/Indexers.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/bin/Debug/net5.0/ref/Indexers.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/bin/Debug/net5.0/Indexers.pdb
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/obj/Debug/net5.0/Indexers.csprojAssemblyReference.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/obj/Debug/net5.0/Indexers.GeneratedMSBuildEditorConfig.editorconfig
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/obj/Debug/net5.0/Indexers.AssemblyInfoInputs.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/obj/Debug/net5.0/Indexers.AssemblyInfo.cs
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/obj/Debug/net5.0/Indexers.csproj.CoreCompileInputs.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/obj/Debug/net5.0/Indexers.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/obj/Debug/net5.0/ref/Indexers.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/obj/Debug/net5.0/Indexers.pdb
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Indexers/obj/Debug/net5.0/Indexers.genruntimeconfig.cache
