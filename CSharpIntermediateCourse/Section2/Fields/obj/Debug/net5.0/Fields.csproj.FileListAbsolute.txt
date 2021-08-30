@@ -1,0 +1,16 @@
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/obj/Debug/net5.0/Fields.csprojAssemblyReference.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/obj/Debug/net5.0/Fields.GeneratedMSBuildEditorConfig.editorconfig
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/obj/Debug/net5.0/Fields.AssemblyInfoInputs.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/obj/Debug/net5.0/Fields.AssemblyInfo.cs
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/obj/Debug/net5.0/Fields.csproj.CoreCompileInputs.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/bin/Debug/net5.0/Fields
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/bin/Debug/net5.0/Fields.deps.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/bin/Debug/net5.0/Fields.runtimeconfig.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/bin/Debug/net5.0/Fields.runtimeconfig.dev.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/bin/Debug/net5.0/Fields.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/bin/Debug/net5.0/ref/Fields.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/bin/Debug/net5.0/Fields.pdb
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/obj/Debug/net5.0/Fields.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/obj/Debug/net5.0/ref/Fields.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/obj/Debug/net5.0/Fields.pdb
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Fields/obj/Debug/net5.0/Fields.genruntimeconfig.cache
