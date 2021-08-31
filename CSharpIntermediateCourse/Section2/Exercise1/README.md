@@ -17,4 +17,4 @@ implementation detail.
 
 # Current Progress
 
-Program.cs contains my current progress through this exercise.
+Program.cs and Stopwatch.cs contain my current progress through this exercise.
