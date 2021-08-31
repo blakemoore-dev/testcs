@@ -1,5 +1,4 @@
-﻿using System.IO;
-using System;
+﻿using System;
 
 namespace Exercise1
 {
@@ -9,19 +8,22 @@ namespace Exercise1
         {
             var watch = new StopWatch();
             
-            System.Console.WriteLine("Press 's' to start stopwatch.");
-            var inputStart = Convert.ToChar(Console.ReadLine());
-            if (inputStart == 's')
-            {
-                watch.Start(DateTime.Now);
-            }
+            System.Console.WriteLine("Press 'RETURN' to start/stop the stopwatch.");
 
-            System.Console.WriteLine("Press 'Return' again to stop stopwatch.");
-            var input = Console.ReadLine();
-            if (String.IsNullOrEmpty(input))
+            while (true)
             {
-                watch.Stop(DateTime.Now);
-                System.Console.WriteLine("Time elapsed is: {0}", watch.Elapsed.TotalSeconds);
+                var inputStart = Console.ReadLine();
+                if (String.IsNullOrEmpty(inputStart))
+                {
+                    watch.Start(DateTime.Now);
+                }
+
+                var inputStop = Console.ReadLine();
+                if (String.IsNullOrEmpty(inputStop))
+                {
+                    watch.Stop(DateTime.Now);
+                    System.Console.WriteLine("Time elapsed is: {0}", watch.Elapsed);
+                }
             }
         }
     }

@@ -18,13 +18,9 @@ namespace Exercise1
         }
 
         public TimeSpan Elapsed
-        {
-            get
-            {
-                var timeSpan = StopTime - StartTime;
-
-                return timeSpan;
-            }
-        }
+        { get { var timeSpan = StopTime - StartTime; return timeSpan; }}
+        
+        public TimeSpan ElapsedDifference
+        { get { var timeSpan = StopTime - Convert.ToDateTime(Elapsed); return timeSpan; }}
     }
 }
