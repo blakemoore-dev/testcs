@@ -14,3 +14,7 @@ always in a valid state. We use encapsulation and information hiding to achieve 
 should not reveal its implementation detail. It only reveals a little bit, like a blackbox. From the 
 outside, you should not be able to misuse a class because you shouldn’t be able to see the 
 implementation detail. 
+
+# Current Progress
+
+Program.cs contains my current progress through this exercise.
