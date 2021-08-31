@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FSC9YrTYUojC4PWGvnQXyZ8GKywE+1zSL1UYBspAyUJiRkfhoTfT9qkpPHiuU/MDWqxqjIw1+U5bVd9kwMVYdQ==",
+  "success": true,
+  "projectFilePath": "/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/Exercise1.csproj",
+  "expectedPackageFiles": [
+    "/home/lost/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

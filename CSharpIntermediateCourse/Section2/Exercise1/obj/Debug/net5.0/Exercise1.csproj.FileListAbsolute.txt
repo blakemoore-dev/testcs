@@ -1,0 +1,16 @@
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/bin/Debug/net5.0/Exercise1
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/bin/Debug/net5.0/Exercise1.deps.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/bin/Debug/net5.0/Exercise1.runtimeconfig.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/bin/Debug/net5.0/Exercise1.runtimeconfig.dev.json
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/bin/Debug/net5.0/Exercise1.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/bin/Debug/net5.0/ref/Exercise1.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/bin/Debug/net5.0/Exercise1.pdb
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/obj/Debug/net5.0/Exercise1.csprojAssemblyReference.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/obj/Debug/net5.0/Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/obj/Debug/net5.0/Exercise1.AssemblyInfoInputs.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/obj/Debug/net5.0/Exercise1.AssemblyInfo.cs
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/obj/Debug/net5.0/Exercise1.csproj.CoreCompileInputs.cache
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/obj/Debug/net5.0/Exercise1.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/obj/Debug/net5.0/ref/Exercise1.dll
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/obj/Debug/net5.0/Exercise1.pdb
+/home/lost/testcs/CSharpIntermediateCourse/Section2/Exercise1/obj/Debug/net5.0/Exercise1.genruntimeconfig.cache
