@@ -1,36 +1,21 @@
-﻿using System.Runtime.Intrinsics.X86;
-using System;
+﻿using System;
+using System.Diagnostics;
 
-// Review Classes, Constructors, and Properties
-
-namespace scratchpad
+namespace Code_Coach_Challenge
 {
-    public class Person
-    {
-        public DateTime Birthdate { get; private set; }
-
-        public Person(DateTime birthdate)
-        {
-            Birthdate = birthdate;
-        }
-
-        public int Age
-        {
-            get
-            {
-                var timeSpan = DateTime.Today - Birthdate;
-                var years = timeSpan.Days/365;
-
-                return years;
-            }
-        }
-    }
     class Program
     {
+        
         static void Main(string[] args)
         {
-            var person = new Person(new DateTime(1985, 1, 1));
-            System.Console.WriteLine(person.Age);
+            int[] seq = {1, 2, 3, 4, 5, 6, 7, 8};
+
+            var oddOrEven = seq.Length%2;
+
+            if (oddOrEven == 1)
+                System.Console.WriteLine("Odd");
+            else
+                System.Console.WriteLine("Even");
         }
     }
 }
