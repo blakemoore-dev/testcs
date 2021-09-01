@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UeKzY+NQNbeBYAv21cJPC48/aNZDMyH3eygfGFBe7eFGBum6Y/ZGK6htzwzhkoG1msTy7lwRaJrFboTMHZPBew==",
+  "success": true,
+  "projectFilePath": "/home/lost/testcs/Arrays_and_Lists/Exercise2/Exercise2.csproj",
+  "expectedPackageFiles": [
+    "/home/lost/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
