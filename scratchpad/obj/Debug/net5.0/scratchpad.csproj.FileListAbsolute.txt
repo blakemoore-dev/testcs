@@ -1,0 +1,16 @@
+/home/lost/testcs/scratchpad/bin/Debug/net5.0/scratchpad
+/home/lost/testcs/scratchpad/bin/Debug/net5.0/scratchpad.deps.json
+/home/lost/testcs/scratchpad/bin/Debug/net5.0/scratchpad.runtimeconfig.json
+/home/lost/testcs/scratchpad/bin/Debug/net5.0/scratchpad.runtimeconfig.dev.json
+/home/lost/testcs/scratchpad/bin/Debug/net5.0/scratchpad.dll
+/home/lost/testcs/scratchpad/bin/Debug/net5.0/ref/scratchpad.dll
+/home/lost/testcs/scratchpad/bin/Debug/net5.0/scratchpad.pdb
+/home/lost/testcs/scratchpad/obj/Debug/net5.0/scratchpad.csprojAssemblyReference.cache
+/home/lost/testcs/scratchpad/obj/Debug/net5.0/scratchpad.GeneratedMSBuildEditorConfig.editorconfig
+/home/lost/testcs/scratchpad/obj/Debug/net5.0/scratchpad.AssemblyInfoInputs.cache
+/home/lost/testcs/scratchpad/obj/Debug/net5.0/scratchpad.AssemblyInfo.cs
+/home/lost/testcs/scratchpad/obj/Debug/net5.0/scratchpad.csproj.CoreCompileInputs.cache
+/home/lost/testcs/scratchpad/obj/Debug/net5.0/scratchpad.dll
+/home/lost/testcs/scratchpad/obj/Debug/net5.0/ref/scratchpad.dll
+/home/lost/testcs/scratchpad/obj/Debug/net5.0/scratchpad.pdb
+/home/lost/testcs/scratchpad/obj/Debug/net5.0/scratchpad.genruntimeconfig.cache

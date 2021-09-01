@@ -1,0 +1,16 @@
+/home/lost/testcs/Arrays_and_Lists/Exercise4/bin/Debug/net5.0/Exercise4
+/home/lost/testcs/Arrays_and_Lists/Exercise4/bin/Debug/net5.0/Exercise4.deps.json
+/home/lost/testcs/Arrays_and_Lists/Exercise4/bin/Debug/net5.0/Exercise4.runtimeconfig.json
+/home/lost/testcs/Arrays_and_Lists/Exercise4/bin/Debug/net5.0/Exercise4.runtimeconfig.dev.json
+/home/lost/testcs/Arrays_and_Lists/Exercise4/bin/Debug/net5.0/Exercise4.dll
+/home/lost/testcs/Arrays_and_Lists/Exercise4/bin/Debug/net5.0/ref/Exercise4.dll
+/home/lost/testcs/Arrays_and_Lists/Exercise4/bin/Debug/net5.0/Exercise4.pdb
+/home/lost/testcs/Arrays_and_Lists/Exercise4/obj/Debug/net5.0/Exercise4.csprojAssemblyReference.cache
+/home/lost/testcs/Arrays_and_Lists/Exercise4/obj/Debug/net5.0/Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+/home/lost/testcs/Arrays_and_Lists/Exercise4/obj/Debug/net5.0/Exercise4.AssemblyInfoInputs.cache
+/home/lost/testcs/Arrays_and_Lists/Exercise4/obj/Debug/net5.0/Exercise4.AssemblyInfo.cs
+/home/lost/testcs/Arrays_and_Lists/Exercise4/obj/Debug/net5.0/Exercise4.csproj.CoreCompileInputs.cache
+/home/lost/testcs/Arrays_and_Lists/Exercise4/obj/Debug/net5.0/Exercise4.dll
+/home/lost/testcs/Arrays_and_Lists/Exercise4/obj/Debug/net5.0/ref/Exercise4.dll
+/home/lost/testcs/Arrays_and_Lists/Exercise4/obj/Debug/net5.0/Exercise4.pdb
+/home/lost/testcs/Arrays_and_Lists/Exercise4/obj/Debug/net5.0/Exercise4.genruntimeconfig.cache
